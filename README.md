@@ -40,6 +40,7 @@ Clone o repositório em sua máquina local:
 git clone https://github.com/ViniciusMPdS/sistema-estoque-loja
 cd sistema-estoque-loja/finalProject04
 ```
+Antes de iniciar a compilação, mude o local de armazenamento das listas usuarios.txt e estoqeu.txt dentro das funções 'carregarUsuarios', 'salvarUsuarios', 'salvar_estoque' e 'carregar_estoque', para um local de armazenamento dentro de sua máquina.
 
 Para compilar o código, execute o seguinte comando:
 ```bash
